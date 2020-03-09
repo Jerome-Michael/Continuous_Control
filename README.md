@@ -39,7 +39,7 @@ The environment is considered solved, when the average (over 100 episodes) of th
 ### Setup Instructions:
 #### 1. Requirements
 
-To reproduce the results from this repository, it is suggested to use virtual python environment and python version 3.6. Python 3.7 at the point of creating this repository does not support tensorflow=1.7 which is a dependency of unityagents package. Note* Python3.7 can still be used, if you know how to install pacakages from source, change requirements.txt and use latest version of tensorflow(tested with tf-v1.14). Follow these simple steps to setup the dependencies:
+To reproduce the results from this repository, it is suggested to use virtual python environment and python version 3.6. Python 3.7 at the point of creating this repository does not support tensorflow=1.7 which is a dependency of unityagents package. Follow these simple steps to setup the dependencies:
 
 ```shell
 git clone https://github.com/Jerome-Michael/Continuous_Control.git
