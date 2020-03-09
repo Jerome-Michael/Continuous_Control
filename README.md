@@ -77,7 +77,7 @@ Next you need to download the unity environment of Reacher agent. Download the u
 2. Place the file in this folder, unzip (or decompress) the file and then write the correct path in the argument for creating the environment under the notebook `Continuous_Control.ipynb`:
 
 ```python
-env = env = UnityEnvironment(file_name="Reacher_Linux_NoVis/Reacher.x86")
+env = UnityEnvironment(file_name="Reacher_Linux_NoVis/Reacher.x86")
 
 ```    
     
